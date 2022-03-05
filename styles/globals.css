@@ -33,15 +33,15 @@
 
   .haxBg {
     @apply text-white;
-    background-image: url("http://localhost:3000/images/hax.png");
+    background-image: url("/images/hax.png");
   }
 
   .pmkBg {
-    background-image: url("http://localhost:3000/images/pmk.png");
+    background-image: url("/images/pmk.png");
   }
 
   .wtrBg {
     @apply text-white;
-    background-image: url("http://localhost:3000/images/wtr.png");
+    background-image: url("/images/wtr.png");
   }
 }
